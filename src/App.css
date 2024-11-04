@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-pagination .MuiTablePagination-selectLabel,
+.custom-pagination .MuiTablePagination-displayedRows {
+  margin-top: auto !important;
+}
